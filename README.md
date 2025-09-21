@@ -1,2 +1,2 @@
 # websolutions-hnp
-websolutions
+web solutions
